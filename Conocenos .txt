@@ -1,0 +1,33 @@
+<html>
+   <head>
+        <title>nike-Conocenos</title>
+		  <link rel="shorcut icon" href="nike 2.png">
+   </head> 
+   <body bgcolor="#CED8F6">
+      <img src=nike.jpg width="250" height="200">
+	   <h1 align="center"><font color="blue" size="7" face="tahoma"> 
+    Just do it 
+	</font>
+	</h1>
+	<hr>
+
+		  <br>
+		  <A href="principal.html" 
+		   <img src=historial.jpg width="150" height="150">
+		   </A>
+		   <br>
+		      <h1 align="center"><font color="black" size="7" face="tahoma"> 
+			  Pincipal 
+			  <p align="center"
+			  <h1 align="center"><font color="#08088A" size="1" face="tahoma">
+           <br>			  
+			  &copy;2022. Derechos reservados
+			  Desarrollado por: Garcia Loaiza Uxue Zaraby
+			  Matricula: 01910934 
+			  Grupo: 605
+			  Plantel nueva tijuana
+			  </b>
+        </font>			  
+   </body> 
+</html>
+      

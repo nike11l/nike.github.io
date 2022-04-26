@@ -1,0 +1,128 @@
+body{
+   background: #CADF40;
+   }
+   h1{
+     color:#4B7029;
+	 font-family: arial;
+     font-size:100px;
+     text-align: center;	 
+   }
+   p{
+    color:#4B7029;
+	 font-family: arial;
+     font-size:10px;
+     text-align: center;	 
+	 font-weight: bold;
+	 font-style: italic;
+     }
+table{
+     color:#0B0603;
+	border-color: center;
+	border-color: black;
+	font-style:italic;
+	
+	border: 2;
+	     }
+tr{
+        color:#0B0603;
+        font-family: arial;
+        font-size: 20px;
+        text-align: center;
+        background-color:black;
+        border-color:black;
+        font-style:italic;
+     }
+td{
+        color:#F3ECF7;
+        font-family: arial;
+        font-size: 20px;
+        text-align: center;
+        border-color: black;
+        border-style:italic;
+}
+.sin{
+        border-style: transparent;
+        border:0;
+        background-color: transparent;
+}
+th{
+        color:#0B0603;
+        text-align: center;
+        border-color: center;
+        background-color:white;
+	}
+
+letra{
+     color: black;
+	 font-family: times new roman;
+	 font-size: 15px;
+	 text-align: center;
+}
+
+/*esta clase es para quitar el borde y fondo de las tablas*/
+ .sin{
+   border-style: transparent;
+   border: 0;
+   background: transparent;
+ } 
+.tam{
+		height:150px;
+        width:100px;
+}
+.tam1{
+		height:300px;
+        width:300px;
+}
+.fondo{
+font: tranparent;
+}
+.div1{
+    background: linear-gradient(to bottom, #8DC567,#E8E170);
+    border-radius:20px;
+    border: 5px solid #C6FAAA;    
+}
+.div2{
+    background: linear-gradient(to bottom, #E2FFD2,#B0FE86);
+	border-radius: 20px;
+	border: 5px solid #E5FFC1;
+}
+.div3{
+     border-radius: 20px;
+	 background: #A9FF25;
+	 border: 5px solid #90FC7C;
+	 
+	 }
+	 .div4{
+    background: white;
+	border-radius: 20px;
+	border: 5px solid #E5FFC1;
+	}
+.caja{ 
+        height:300px;
+        width:250px;
+        background: #eee;
+        border: 1px solid #eee;
+        margin: 5px;
+        color:black;
+        text-align:center;
+        font-family: "tato", sans-serif;
+        display: inline-block;
+}
+.caja:hover{
+/*agregar sombra al div*/
+/*             X   Y  radio  color*/
+        box-shadow:0  0 1opx  red;
+        /*cambia la escala de tamaño de la caja*/
+        transform: scale(1.3)
+}
+.caja-texto{
+        padding-bottom: 5px;
+        padding-top: 2px;
+        font-size:30px;
+        color:black;
+        font-weight: bold;
+}
+.texto-adicional{
+        padding-top:5px;
+        font-size: 25px;
+}
